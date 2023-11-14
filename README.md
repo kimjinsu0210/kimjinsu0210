@@ -1,3 +1,10 @@
+👋 Hi there! I'm jinsu kim, a passionate Frontend Developer with a love for crafting engaging and user-friendly web experiences.
+
+🌟 Let's build something amazing together! Feel free to explore my repositories and connect with me. Happy coding! 🚀
+
+</br>
+</br>
+
 🛠**Skills**
 
 ***Library***
@@ -23,6 +30,7 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white">
 </div>
+</br>
 
 <!--
 **kimjinsu0210/kimjinsu0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
